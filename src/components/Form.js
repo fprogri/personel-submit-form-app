@@ -41,7 +41,13 @@ class Form extends react.Component {
           characters={job}
           handleChange={this.handleChange}
         />
-        <input type="button" value="Submit" onClick={this.submitForm} />
+        <label htmlFor="submit">-------</label>
+        <input
+          id="submit"
+          type="button"
+          value="submit"
+          onClick={this.submitForm}
+        />
       </form>
     );
   }
