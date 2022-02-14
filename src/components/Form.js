@@ -41,7 +41,7 @@ class Form extends react.Component {
           characters={job}
           handleChange={this.handleChange}
         />
-        <label htmlFor="submit">-------</label>
+        <label htmlFor="submit"></label>
         <input
           id="submit"
           type="button"
