@@ -1,6 +1,6 @@
 {
-  "name": "react-tutorial",
-  "homepage": "http://fprogri.github.io/react-tutorial/",
+  "name": "personel-submit-form-app",
+  "homepage": "http://fprogri.github.io/personel-submit-form-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
